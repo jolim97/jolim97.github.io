@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Personal Information"
-    url: /sitemap/ 
+    url: /personal/
   - title: "Posts"
     url: /sitemap/
   - title: "Quick-Start Guide"
