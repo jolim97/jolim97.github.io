@@ -1,6 +1,7 @@
 ---
+title: "Personal Information"
 permalink: /personal/
-toc: true
+#toc: true
 ---
 
 
