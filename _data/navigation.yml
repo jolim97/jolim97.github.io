@@ -3,7 +3,7 @@ main:
   - title: "Personal Information"
     url: /personal/
   - title: "Posts"
-    url: /sitemap/
+    url: /posts/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Sitemap"
