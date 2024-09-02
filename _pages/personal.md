@@ -1,4 +1,4 @@
-Personal Information
+# Personal Information
 
 This is my CV.
 
