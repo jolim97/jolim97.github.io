@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jongwon's Site"
+title                    : "Jongwon Lim"
 title_separator          : "|"
-subtitle                 : "Ver. 1.0"
+subtitle                 : "I love physics."
 name                     : "Jongwon Lim"
 description              : "A blog for Jongwon Lim"
 url                      : "https://jolim97.github.io"
