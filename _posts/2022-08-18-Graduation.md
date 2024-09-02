@@ -2,5 +2,5 @@
 title: "Master's Graduation!"
 ---
 
-![Graduation](/assets/image/2022-08-18-Graduation_pic.jpeg)
+![Master's Graduation](/assets/image/master_graduate.jpeg)
 

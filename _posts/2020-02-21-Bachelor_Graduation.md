@@ -2,5 +2,5 @@
 title: "Bachelor's Graduation!"
 ---
 
-![Graduation](/assets/image/bachelor_graduate.jpg)
+![Bachelor's Graduation](/assets/image/bachelor_graduate.jpg)
 
